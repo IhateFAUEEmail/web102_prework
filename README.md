@@ -23,7 +23,8 @@ Added search function onto the website to search by game name.
 
 Here's a walkthrough of implemented features:
 
-https://giphy.com/embed/r1SyrtczO7INTAQ2h9
+![giphy (3)](https://github.com/user-attachments/assets/00653346-6579-4065-aa92-3d9457b636db)
+
 
 
 GIF created with giphy.com
