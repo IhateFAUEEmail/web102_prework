@@ -20,10 +20,8 @@ The following **optional** features are implemented:
 Added search function onto the website to search by game name.
 
 ## Video Walkthrough
+![9rbo26](https://github.com/user-attachments/assets/1eecb746-7bed-47cb-9c7e-820851d91fc1)
 
-Here's a walkthrough of implemented features:
-
-![giphy (3)](https://github.com/user-attachments/assets/00653346-6579-4065-aa92-3d9457b636db)
 
 
 
